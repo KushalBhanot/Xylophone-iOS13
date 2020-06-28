@@ -34,3 +34,14 @@ Play Xylophone for some music composition or just to kill time. The choice is yo
 ```bash
 $ git clone https://github.com/KushalBhanot/Xylophone-iOS13.git
 ```
+
+## Key Features
+
+* Fully responsive
+* Made with [AVFoundation](https://developer.apple.com/documentation/avfoundation)
+* Built for iOS 13.0+
+
+## You may also like...
+
+- [Calculator-Layout](https://github.com/KushalBhanot/Calculator-Layout-iOS13) - A fully responsive layout of a typical calculator natively found in the iOS ecosystem.
+- [Magic-8-Ball](https://github.com/KushalBhanot/Magic-8-Ball-iOS13) - Have some decisions to make? Trying to make a choice? Or maybe often insecure about your decisions? Magic 8 Ball will help you find right answers to life’s challenging questions!
