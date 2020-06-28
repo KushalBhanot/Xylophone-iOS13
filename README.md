@@ -27,7 +27,12 @@
   <a href="#cloning">Clone</a>
 </p>
 
-<p align="center">[Screenshot](https://github.com/KushalBhanot/Xylophone-iOS13/blob/master/Demo.gif)</p>
+<p align="center">
+  <a href="https://github.com/KushalBhanot/Xylophone-iOS13/">
+    <img src="https://github.com/KushalBhanot/Xylophone-iOS13/blob/master/Demo.gif"
+         alt="demo">
+  </a>
+</p>
 
 # Xylophone-iOS13
 Play Xylophone for some music composition or just to kill time. The choice is yours!
