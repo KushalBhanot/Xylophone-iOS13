@@ -29,6 +29,12 @@
 </p>
 
 <p align="center">
+  <a href="http://hits.dwyl.com/KushalBhanot/Xylophone-iOS13>
+           <img src="http://hits.dwyl.com/KushalBhanot/Xylophone-iOS13.svg">
+  </a>
+ </p>
+
+<p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#cloning">Clone</a>
 </p>
