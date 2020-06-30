@@ -29,12 +29,6 @@
 </p>
 
 <p align="center">
-  <a href="http://hits.dwyl.com/KushalBhanot/Xylophone-iOS13>
-           <img src="http://hits.dwyl.com/KushalBhanot/Xylophone-iOS13.svg">
-  </a>
- </p>
-
-<p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#cloning">Clone</a>
 </p>
@@ -47,6 +41,7 @@
 </p>
 
 # Xylophone-iOS13
+[![HitCount](http://hits.dwyl.com/KushalBhanot/Xylophone-iOS13.svg)](http://hits.dwyl.com/KushalBhanot/Xylophone-iOS13)<br>
 Play Xylophone for some music composition or just to kill time. The choice is yours!
 
 ## Cloning
